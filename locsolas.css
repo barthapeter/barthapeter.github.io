@@ -5,18 +5,18 @@ body {
   }
   
   h1 {
-    font-size: 5vw;
+    font-size: 8vw;
     margin: 2vw;
   }
   
   li.n { /* normal */
-    font-size: 2vw;
+    font-size: 4vw;
     margin: 2vw;
   }
 
   li.i { /* important */
     color: lightcoral;
-    font-size: 2vw;
+    font-size: 4vw;
     margin: 2vw;
   }
 
@@ -26,6 +26,6 @@ body {
   }
 
   img.w {
-    width: 30%;
+    width: 40%;
     margin: 2vw;
   }
