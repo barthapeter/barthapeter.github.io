@@ -1,0 +1,31 @@
+body {
+    background-color: darkgreen;
+    color: wheat;
+    font-family: verdana;
+  }
+  
+  h1 {
+    font-size: 5vw;
+    margin: 2vw;
+  }
+  
+  li.n { /* normal */
+    font-size: 2vw;
+    margin: 2vw;
+  }
+
+  li.i { /* important */
+    color: lightcoral;
+    font-size: 2vw;
+    margin: 2vw;
+  }
+
+  span.i { /* important */
+    color: lightcoral;
+    font-weight: bold;
+  }
+
+  img.w {
+    width: 30%;
+    margin: 2vw;
+  }
